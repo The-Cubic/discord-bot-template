@@ -10,5 +10,7 @@ Discord bot template uses disnake. Contain cogs, extensions and pre-built things
 7. Open the `cmd` in that directory and run `pip install -r requirements.txt`
 8. Still in that `cmd`, run `python main.py`
 9. It should work
+## Why I don't use discord.py?
+Cuz I'm more familiar with this
 ## WHY BUGS
 Join [this server](https://discord.gg/PAzwTQz2mV) and ping `Brain Flooder#9985` for help.
