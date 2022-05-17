@@ -23,6 +23,6 @@ Join [this server](https://discord.gg/PAzwTQz2mV) and ping `Brain Flooder#9985` 
 
 [The Cubic server](https://discord.gg/PAzwTQz2mV)
 ## Contributors
-Only me since I'm the only one uses Python in The Cubic.
+Only [me](https://github.com/brain-flooder) since I'm the only one uses Python in The Cubic.
 ## Notes
 The `dev.py` wasn't originally written by me (I changed the text cmd to / cmd). I can't find the original one. I'll update when I found the creator.
