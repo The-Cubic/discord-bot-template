@@ -20,5 +20,9 @@ Join [this server](https://discord.gg/PAzwTQz2mV) and ping `Brain Flooder#9985` 
 [Original discord.py](https://github.com/Rapptz/discord.py)
 ## Useful link
 [Disnake docs](https://docs.disnake.dev)
+
+[The Cubic server](https://discord.gg/PAzwTQz2mV)
+## Contributors
+Only me since I'm the only one uses Python in The Cubic.
 ## Notes
 The `dev.py` wasn't originally written by me (I changed the text cmd to / cmd). I can't find the original one. I'll update when I found the creator.
